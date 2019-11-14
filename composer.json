@@ -1,0 +1,31 @@
+{
+  "name": "noures/funcoes",
+  "description": "Classes destinadas a utilização interna",
+  "keywords": [
+    "css",
+    "js",
+    "sass",    
+    "responsive",
+    "front-end",    
+    "web"
+  ],
+  "homepage": "https://noures.com.br/",
+  "authors": [
+    {
+      "name": "Fabio Brand",
+      "email": "fabioabrand@gmail.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/noures/funcoes/issues"
+  },
+  "license": "MIT",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1-dev"
+    }
+  },
+  "replace": {
+    "noures/funcoes": "self.version"
+  }
+}
